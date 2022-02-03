@@ -1,0 +1,4 @@
+[25-Aug-2020 15:21:09 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'propert'@'localhost' (using password: YES) in /home/properti/public_html/dvcradio.com.ng/successcamp/connection.php on line 3
+[25-Aug-2020 15:23:58 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/properti/public_html/dvcradio.com.ng/successcamp/search.php on line 43
+[15-Dec-2020 21:07:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/properti/public_html/dvcradio.com.ng/successcamp/connection.php on line 3
+[16-Dec-2020 06:56:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/properti/public_html/dvcradio.com.ng/dclm/connection.php on line 3
